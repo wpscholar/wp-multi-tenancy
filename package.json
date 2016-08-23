@@ -1,0 +1,21 @@
+{
+  "name": "wp-multi-tenant",
+  "version": "1.0.0",
+  "description": "A WordPress multi-tenant installation",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Micah Wood <micah@wpscholar.com> (http://wpscholar.com)",
+  "license": "GPL-2.0+",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-conflict": "^0.4.0",
+    "gulp-install": "^0.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-template": "^4.0.0",
+    "inquirer": "^1.0.2",
+    "path": "^0.12.7",
+    "underscore.string": "^3.3.4"
+  }
+}
